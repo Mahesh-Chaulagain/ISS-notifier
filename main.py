@@ -13,7 +13,7 @@ MY_LONG = 85.323959
 parameters = {
     "lat": MY_LAT,
     "lng": MY_LONG,
-    "formatted": 0,
+    "formatted": 0,    # change to 24 hour format
 }
 
 
